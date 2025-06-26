@@ -3,10 +3,6 @@
 This repository contains my personally written **Web Application Security Laboratory Manual**, created as part of my university coursework in cybersecurity.  
 The manual includes detailed explanations, step-by-step procedures, and hands-on implementations for key web security topics.
 
-📄 [Download the Full Manual](./final.was.pdf)
-
----
-
 ## 📚 Practicals Covered
 
 1. **Cross-Site Scripting (XSS) Attacks**
