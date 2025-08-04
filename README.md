@@ -1,7 +1,7 @@
 # 🛡️ Web Application Security Lab Manual
 
 This repository contains my personally written **Web Application Security Laboratory Manual**, created as part of my university coursework in cybersecurity.  
-The manual includes detailed explanations, step-by-step procedures, and hands-on implementations for key web security topics.
+This manual includes detailed explanations, step-by-step procedures, and hands-on implementations for key web security topics.
 
 ## 📚 Practicals Covered
 
@@ -14,7 +14,7 @@ The manual includes detailed explanations, step-by-step procedures, and hands-on
 7. **File Inclusion Attacks (LFI & RFI)**
 8. **Clickjacking**
 9. **Security Misconfiguration Exploits**
-10. **Input Validation & Command Injection**
+10. **Input Validation & Command Injection.**
 
 Each lab includes:
 - ✅ Theory overview
